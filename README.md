@@ -6,6 +6,7 @@ after numerous attempts on making requests for it since 2019.
 I am a student currently enrolled in Monash University Malaysia that is currently pursuing a Bachelors in Software Engineering and I am requesting
 access to the Github Student Developer Pack for school projects relating to units such as: FIT4002 (https://handbook.monash.edu/2023/units/FIT4002?year=2023)
 
+In my application for the Github Student Developer Pack, I have also attached a picture of my student ID (which has not expired) per the instructions, and I hope that my application would not get rejected without a valid reason.
 <!--
 **ychi0014/ychi0014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
